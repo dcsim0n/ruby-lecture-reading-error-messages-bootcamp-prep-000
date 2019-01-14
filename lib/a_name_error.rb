@@ -1,3 +1,3 @@
 
 
-var hello_world = "hello world"
+let hello_world = "hello world"
